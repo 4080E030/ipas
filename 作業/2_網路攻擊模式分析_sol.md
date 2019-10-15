@@ -8,7 +8,9 @@ A. Ransomware(勒索軟體
 B. Boot sector virus(啟動區的病毒
 C. Rootkit
 D. Key logger(鍵盤側錄
+```
 答案:B
+```
 
 ```
 # 2
@@ -23,7 +25,9 @@ A. Phishing (網路釣魚
 B. Social engineering (社交工程
 C. Spear phishing(魚叉式網路攻擊 ：特定對象
 D. Trojan horse (特洛伊)木馬
+```
 答案:C
+```
 ```
 
 # 5
@@ -37,9 +41,10 @@ C. Buffer overflow　（緩衝區益位
 D. ARP poisoning
 
 large number of half-open connections（一堆半開放的連線
+```
 答案：B
 ```
-
+```
 # 10
 ```
 10. Your company（公司 outsourced（外包 development of an accounting(會計師 application to a local programming
