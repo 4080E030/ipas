@@ -55,6 +55,7 @@ A. Logic bomb　（邏輯炸彈
 B. Trojan horse
 C. Backdoor（後門程式
 D. Rootkit
+```
 答案:C
 ```
 
