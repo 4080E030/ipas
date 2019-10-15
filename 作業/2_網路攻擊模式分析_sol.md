@@ -26,7 +26,6 @@ D. Trojan horse (特洛伊)木馬
 答案:C
 ```
 
-```
 # 5
 ```
 5. Juanita is a network administrator for a small accounting firm. The users on her network
@@ -40,6 +39,7 @@ D. ARP poisoning
 large number of half-open connections（一堆半開放的連線
 答案：B
 ```
+
 # 10
 ```
 10. Your company（公司 outsourced（外包 development of an accounting(會計師 application to a local programming
@@ -52,6 +52,4 @@ C. Backdoor（後門程式
 D. Rootkit
 答案:C
 ```
-```
 
-```
