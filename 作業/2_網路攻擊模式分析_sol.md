@@ -12,7 +12,7 @@ D. Key logger(鍵盤側錄
 答案:B
 
 
-```
+
 # 2
 ```
 2. Ahmed is a sales manager with a major insurance company(保險公司. 
