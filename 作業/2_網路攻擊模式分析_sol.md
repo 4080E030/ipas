@@ -42,7 +42,7 @@ D. ARP poisoning
 large number of half-open connections（一堆半開放的連線
 ```
 答案：B
-```
+
 ```
 # 10
 ```
