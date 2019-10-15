@@ -27,8 +27,7 @@ C. Spear phishing(魚叉式網路攻擊 ：特定對象
 D. Trojan horse (特洛伊)木馬
 ```
 答案:C
-```
-```
+
 
 # 5
 ```
