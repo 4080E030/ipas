@@ -10,7 +10,7 @@ C. Rootkit
 D. Key logger(鍵盤側錄
 ```
 答案:B
-```
+
 
 ```
 # 2
