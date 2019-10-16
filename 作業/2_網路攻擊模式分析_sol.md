@@ -98,3 +98,32 @@ D. Bluejacking(藍牙劫持
 
 ```
 答案:A
+
+
+# 94
+```
+94. Tyrell is responsible for selecting(選擇 cryptographic(密碼學 products(產品 for his company. The company
+wants to encrypt(加密 the drives(驅動 of all laptops(手提電腦. The product they have selected uses 128-bit
+AES encryption(AES加密 or full disk(磁碟 encryption, and users select a password to decrypt(解密 the drive.
+What, if any, would be the major(重大的 weakness(弱點 in this system?
+A. None; this is a good system.
+B. The 128-bit AES key is too short.  
+C. The passwords users select are the weak(弱 Link
+D. The AES algorithm(算法 is the problem; they should use DES(資料加密標準.
+
+AES長度有 128、192、256
+```
+答案:B
+
+
+# 95
+```
+95. Valerie is responsible for security(安全 testing(測試 applications(應用 in her company. She has discovered(發現
+that a web application, under certain(某些 conditions(條件, can generate(生成 a memory leak（洩漏. 
+What, type　of attack would this leave the application vulnerable（脆弱的 to?
+A. DoSS
+B. Backdoor
+C. SQL injection(資料庫漏洞
+D. Buffer overflow
+```
+答案：B
